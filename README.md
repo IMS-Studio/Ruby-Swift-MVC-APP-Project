@@ -5,7 +5,7 @@ One of the mobile applications that I have built implementing the MVC pattern is
 Ryde is a non-profit ride-sharing application inspired by Uber and Lyft. <br/>
 This app is avaible only in IOS TestFlight (send me a for invite)
 
-![Alt text](/Ruby-Swift-MVC-APP-Project/Ride-Sharing-App/Gif_Of_App.gif)
+![app pages](https://raw.githubusercontent.com/IMS-Studio/Ruby-Swift-MVC-APP-Project/main/Ride-Sharing-App/Gif_Of_App.gif)
 The left simulator represents a driver and the right simulator represents a passenger.<br/>
 A passenger sends a request and a driver accepts that incoming request. <br/> When a driver arrives at that passenger's location, a driver presses the ARRIVED button to notify that passenger.
 
