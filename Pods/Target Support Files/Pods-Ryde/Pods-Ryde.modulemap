@@ -1,0 +1,6 @@
+framework module Pods_Ryde {
+  umbrella header "Pods-Ryde-umbrella.h"
+
+  export *
+  module * { export * }
+}
